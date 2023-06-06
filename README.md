@@ -1,4 +1,4 @@
-# StrokePredictionMachineLearning
+# Stroke Prediction Machine Learning
 
 ##  <u> Introduction </u>
 
